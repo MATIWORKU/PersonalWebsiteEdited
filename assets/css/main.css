@@ -1,0 +1,60 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: lightgray;
+    font-family: 'Karla', sans-serif;
+}
+.container{
+    background-color: white;
+}
+p{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom:50px ;
+    font-size: 20px;
+}
+img{
+    float:right; 
+    border: 3px ;
+}
+.navbar-brand{
+    text-align: center;
+    font-size: 50px;
+    margin-left: 25%;
+}
+#button{
+    background-color: black;
+
+}
+ul.navbar{
+    text-align: center;
+}
+#box{
+    padding: 20px;
+    border-bottom: 1px dashed;
+    border-right: 1px dashed;
+}
+#box2{
+    margin-top: 5px;
+    border-right: 1px dashed;
+}
+#box3{
+    border-bottom: 1px dashed;
+    padding: 20px;
+}
+.connect{
+    text-align: center;
+
+}
+p.ul{
+    margin-top: 20px;
+}
+.input{
+    width: 70px;
+}
+#form{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom:10px ;
+    font-size: 20px;
+}
